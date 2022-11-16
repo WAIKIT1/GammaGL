@@ -9,6 +9,7 @@ scipy
 tensorflow
 hyperdash
 torch
+tqdm
 git+https://github.com/tensorlayer/tensorlayerx.git
 pytest
 cython
