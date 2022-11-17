@@ -44,7 +44,9 @@ __all__ = [
     'GPRGNNModel',
     'MIXHOPModel',
     'HardGATModel',
-    'GraphGAN'
+    'GraphGAN',
+    'Generator',
+    'Discriminator'
 ]
 
 classes = __all__
